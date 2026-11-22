@@ -1,0 +1,22 @@
+{
+  "wheel_id": 943,
+  "structure": "umbrella",
+  "slug": "toowoombaretainingwalls-120",
+  "project": "retaining-wall-repairs-toowoomba-red-flags-801ea81a30344f759ed9",
+  "parent_t1_ref": "toowoombaretainingwalls-159",
+  "node_role": "feeder",
+  "money_target": "toowoombaretainingwalls.com",
+  "primary_kw": "retaining wall repairs toowoomba red flags",
+  "intended_url": "https://sitesau.github.io/toowoombaretainingwalls-120/",
+  "tier": "T2",
+  "writeback_nonce": "237afefcf8673362",
+  "links": [
+    {
+      "target_url": "http://retaining-wall-repairs-toowoomba-what-to-expect-754bd72233771af.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "retaining wall repairs toowoomba what to expect",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
